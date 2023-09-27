@@ -1,0 +1,40 @@
+/*this is a css comment for me to input information*/
+
+/*let's use css to style the body tagof any HTML page that uses me, or references me*/
+body {
+    /*the background of the page*/
+    background-color: black;
+    /*foreground of the page*/
+    color: white;
+}
+/*let's use css to style the nav properties*/
+nav{
+    /*setting the height*/
+    height: 600px;
+    /*setting the width*/
+    width: 200px;
+    /*setting the float*/
+    float: left;
+    /*setting the padding*/
+    padding: 5px;
+    /*setting teh line-height*/
+    line-height: 30px;
+}
+/*let's use css to style the footer properties*/
+footer{
+    /*aligning the text to the center*/
+    text-align: center;
+    /*moveing it to the right 200 pixels*/
+    margin-right: 200px;
+}
+/*moved the image to the right 200px*/
+image{
+    /*the actual code for the image to move it over*/
+    margin-right: 200px;
+}
+/*using css to change the header properties in css*/
+header{
+    /*aligning the text to the center of the page*/
+    text-align: center;
+}
+
